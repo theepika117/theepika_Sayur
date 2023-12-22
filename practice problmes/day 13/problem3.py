@@ -12,18 +12,25 @@ mark = int(input("Enter mark : "))
 match mark :
     case  n if n<0 :
         print("Mark cannot be negative")
+
     case n if n == 0 :
         print("Mark cannot be Zero")
+
     case n if n < 60 :
-        print("Fail")  
+        print("Fail") 
+
     case n if n <= 80 :
         print("Grade C")
+
     case n if n <= 90 :
         print("Grade B")
+
     case n if n <= 100 :
         print("Grade A")
+
     case n if n >= 100 :
         print("Mark cannot be greater than 100") 
+
     case _:
         print("Enter a valid mark")
 

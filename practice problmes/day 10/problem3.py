@@ -34,6 +34,8 @@ limit = len(sumOfList)
 for i in range(limit-1,-1,-1) :
     finalList.append(sumOfList[i])
 
+
+
 print(finalList)
 
 
@@ -42,3 +44,8 @@ print(finalList)
 # Enter numbers of list 1 in ascending order with space between every number : 4 5 6
 # ['5', '7', '9']
 
+# if add_list>=10:
+#             remainder = add_list % 10
+#             carry = add_list // 10
+#             add.append(remainder)
+#             add.append(carry)
