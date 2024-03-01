@@ -1,0 +1,482 @@
+Enter the initials of player 1 : t
+Enter the initials of player 2 : s
+_ _ _ _ _ _ 
+_ _ _ _ _ _
+_ _ _ _ _ _
+_ _ _ _ _ _
+_ _ _ _ _ _
+_ _ _ _ _ _
+Player  1 rolls the dice :
+5 5
+_ _ _ _ _ _
+_ _ _ _ _ _
+_ _ _ _ _ _
+_ _ _ _ _ _
+_ _ _ _ T _
+_ _ _ _ _ _
+Player  2 rolls the dice : 
+5 6
+_ _ _ _ _ _
+_ _ _ _ _ _
+_ _ _ _ _ _
+_ _ _ _ _ _
+_ _ _ _ T S
+_ _ _ _ _ _
+Player  1 rolls the dice : 
+3 3
+_ _ _ _ _ _
+_ _ _ _ _ _
+_ _ T _ _ _
+_ _ _ _ _ _
+_ _ _ _ T S
+_ _ _ _ _ _
+Player  2 rolls the dice : 
+6 5
+_ _ _ _ _ _
+_ _ _ _ _ _
+_ _ T _ _ _
+_ _ _ _ _ _
+_ _ _ _ T S
+_ _ _ _ S _
+Player  1 rolls the dice : 
+6 3
+_ _ _ _ _ _
+_ _ _ _ _ _
+_ _ T _ _ _
+_ _ _ _ _ _
+_ _ _ _ T S
+_ _ T _ S _
+Player  2 rolls the dice : 
+3 5
+_ _ _ _ _ _
+_ _ _ _ _ _
+_ _ T _ S _
+_ _ _ _ _ _
+_ _ _ _ T S
+_ _ T _ S _
+Player  1 rolls the dice : 
+4 1
+_ _ _ _ _ _
+_ _ _ _ _ _
+_ _ T _ S _
+T _ _ _ _ _
+_ _ _ _ T S
+_ _ T _ S _
+Player  2 rolls the dice : 
+4 4
+_ _ _ _ _ _
+_ _ _ _ _ _
+_ _ T _ S _
+T _ _ S _ _
+_ _ _ _ T S
+_ _ T _ S _
+Player  1 rolls the dice : 
+3 4
+_ _ _ _ _ _
+_ _ _ _ _ _
+_ _ T T S _
+T _ _ S _ _
+_ _ _ _ T S
+_ _ T _ S _
+Player  2 rolls the dice : 
+3 1
+_ _ _ _ _ _
+_ _ _ _ _ _
+S _ T T S _
+T _ _ S _ _
+_ _ _ _ T S
+_ _ T _ S _
+Player  1 rolls the dice : 
+1 5
+_ _ _ _ T _
+_ _ _ _ _ _
+S _ T T S _
+T _ _ S _ _
+_ _ _ _ T S
+_ _ T _ S _
+Player  2 rolls the dice : 
+5 5
+Player 2, gets a point
+_ _ _ _ T _
+_ _ _ _ _ _
+S _ T T S _
+T _ _ S _ _
+_ _ _ _ S S
+_ _ T _ S _
+Player  1 rolls the dice : 
+1 3
+_ _ T _ T _
+_ _ _ _ _ _
+S _ T T S _
+T _ _ S _ _
+_ _ _ _ S S
+_ _ T _ S _
+Player  2 rolls the dice : 
+4 1
+Player 2, gets a point
+_ _ T _ T _
+_ _ _ _ _ _
+S _ T T S _
+S _ _ S _ _
+_ _ _ _ S S
+_ _ T _ S _
+Player  1 rolls the dice : 
+6 3
+_ _ T _ T _
+_ _ _ _ _ _
+S _ T T S _
+S _ _ S _ _
+_ _ _ _ S S
+_ _ T _ S _
+Player  2 rolls the dice : 
+2 5
+_ _ T _ T _
+_ _ _ _ S _
+S _ T T S _
+S _ _ S _ _
+_ _ _ _ S S
+_ _ T _ S _
+Player  1 rolls the dice : 
+1 6
+_ _ T _ T T
+_ _ _ _ S _
+S _ T T S _
+S _ _ S _ _
+_ _ _ _ S S
+_ _ T _ S _
+Player  2 rolls the dice : 
+6 1
+_ _ T _ T T
+_ _ _ _ S _
+S _ T T S _
+S _ _ S _ _
+_ _ _ _ S S
+S _ T _ S _
+Player  1 rolls the dice : 
+3 4
+_ _ T _ T T
+_ _ _ _ S _
+S _ T T S _
+S _ _ S _ _
+_ _ _ _ S S
+S _ T _ S _
+Player  2 rolls the dice : 
+3 5
+_ _ T _ T T
+_ _ _ _ S _
+S _ T T S _
+S _ _ S _ _
+_ _ _ _ S S
+S _ T _ S _
+Player  1 rolls the dice : 
+6 4
+_ _ T _ T T
+_ _ _ _ S _
+S _ T T S _
+S _ _ S _ _
+_ _ _ _ S S
+S _ T T S _
+Player  2 rolls the dice : 
+5 5
+_ _ T _ T T
+_ _ _ _ S _
+S _ T T S _
+S _ _ S _ _
+_ _ _ _ S S
+S _ T T S _
+Player  1 rolls the dice : 
+1 2
+_ T T _ T T
+_ _ _ _ S _
+S _ T T S _
+S _ _ S _ _
+_ _ _ _ S S
+S _ T T S _
+Player  2 rolls the dice : 
+3 2
+_ T T _ T T
+_ _ _ _ S _
+S S T T S _
+S _ _ S _ _
+_ _ _ _ S S
+S _ T T S _
+Player  1 rolls the dice : 
+6 5
+Player 1, gets a point
+_ T T _ T T
+_ _ _ _ S _
+S S T T S _
+S _ _ S _ _
+_ _ _ _ S S
+S _ T T T _
+Player  2 rolls the dice : 
+3 6
+_ T T _ T T
+_ _ _ _ S _
+S S T T S S
+S _ _ S _ _
+_ _ _ _ S S
+S _ T T T _
+Player  1 rolls the dice : 
+2 3
+_ T T _ T T
+_ _ T _ S _
+S S T T S S
+S _ _ S _ _
+_ _ _ _ S S
+S _ T T T _
+Player  2 rolls the dice : 
+5 3
+_ T T _ T T
+_ _ T _ S _
+S S T T S S
+S _ _ S _ _
+_ _ S _ S S
+S _ T T T _
+Player  1 rolls the dice : 
+2 5
+Player 1, gets a point
+_ T T _ T T
+_ _ T _ T _
+S S T T S S
+S _ _ S _ _
+_ _ S _ S S
+S _ T T T _
+Player  2 rolls the dice : 
+1 1
+S T T _ T T
+_ _ T _ T _
+S S T T S S
+S _ _ S _ _
+_ _ S _ S S
+S _ T T T _
+Player  1 rolls the dice : 
+1 2
+S T T _ T T
+_ _ T _ T _
+S S T T S S
+S _ _ S _ _
+_ _ S _ S S
+S _ T T T _
+Player  2 rolls the dice : 
+2 2
+S T T _ T T
+_ S T _ T _
+S S T T S S
+S _ _ S _ _
+_ _ S _ S S
+S _ T T T _
+Player  1 rolls the dice : 
+3 3
+S T T _ T T
+_ S T _ T _
+S S T T S S
+S _ _ S _ _
+_ _ S _ S S
+S _ T T T _
+Player  2 rolls the dice : 
+2 4
+S T T _ T T
+_ S T S T _
+S S T T S S
+S _ _ S _ _
+_ _ S _ S S
+S _ T T T _
+Player  1 rolls the dice : 
+6 3
+S T T _ T T
+_ S T S T _
+S S T T S S
+S _ _ S _ _
+_ _ S _ S S
+S _ T T T _
+Player  2 rolls the dice : 
+5 6
+S T T _ T T
+_ S T S T _
+S S T T S S
+S _ _ S _ _
+_ _ S _ S S
+S _ T T T _
+Player  1 rolls the dice : 
+5 4
+S T T _ T T
+_ S T S T _
+S S T T S S
+S _ _ S _ _
+_ _ S T S S
+S _ T T T _
+Player  2 rolls the dice : 
+3 1
+S T T _ T T
+_ S T S T _
+S S T T S S
+S _ _ S _ _
+_ _ S T S S
+S _ T T T _
+Player  1 rolls the dice : 
+6 3
+S T T _ T T
+_ S T S T _
+S S T T S S
+S _ _ S _ _
+_ _ S T S S
+S _ T T T _
+Player  2 rolls the dice : 
+6 6
+S T T _ T T
+_ S T S T _
+S S T T S S
+S _ _ S _ _
+_ _ S T S S
+S _ T T T S
+Player  1 rolls the dice : 
+5 4
+S T T _ T T
+_ S T S T _
+S S T T S S
+S _ _ S _ _
+_ _ S T S S
+S _ T T T S
+Player  2 rolls the dice : 
+2 4
+S T T _ T T
+_ S T S T _
+S S T T S S
+S _ _ S _ _
+_ _ S T S S
+S _ T T T S
+Player  1 rolls the dice : 
+3 6
+Player 1, gets a point
+S T T _ T T
+_ S T S T _
+S S T T S T
+S _ _ S _ _
+_ _ S T S S
+S _ T T T S
+Player  2 rolls the dice : 
+5 3
+S T T _ T T
+_ S T S T _
+S S T T S T
+S _ _ S _ _
+_ _ S T S S
+S _ T T T S
+Player  1 rolls the dice : 
+5 4
+S T T _ T T
+_ S T S T _
+S S T T S T
+S _ _ S _ _
+_ _ S T S S
+S _ T T T S
+Player  2 rolls the dice : 
+2 1
+S T T _ T T
+S S T S T _
+S S T T S T
+S _ _ S _ _
+_ _ S T S S
+S _ T T T S
+Player  1 rolls the dice : 
+1 3
+S T T _ T T
+S S T S T _
+S S T T S T
+S _ _ S _ _
+_ _ S T S S
+S _ T T T S
+Player  2 rolls the dice : 
+6 2
+S T T _ T T
+S S T S T _
+S S T T S T
+S _ _ S _ _
+_ _ S T S S
+S S T T T S
+Player  1 rolls the dice : 
+2 1
+Player 1, gets a point
+S T T _ T T
+T S T S T _
+S S T T S T
+S _ _ S _ _
+_ _ S T S S
+S S T T T S
+Player  2 rolls the dice : 
+4 2
+S T T _ T T
+T S T S T _
+S S T T S T
+S S _ S _ _
+_ _ S T S S
+S S T T T S
+Player  1 rolls the dice : 
+5 1
+S T T _ T T
+T S T S T _
+S S T T S T
+S S _ S _ _
+T _ S T S S
+S S T T T S
+Player  2 rolls the dice : 
+1 6
+Player 2, gets a point
+S T T _ T S
+T S T S T _
+S S T T S T
+S S _ S _ _
+T _ S T S S
+S S T T T S
+Player  1 rolls the dice : 
+3 6
+S T T _ T S
+T S T S T _
+S S T T S T
+S S _ S _ _
+T _ S T S S
+S S T T T S
+Player  2 rolls the dice : 
+6 6
+S T T _ T S
+T S T S T _
+S S T T S T
+S S _ S _ _
+T _ S T S S
+S S T T T S
+Player  1 rolls the dice : 
+1 2
+S T T _ T S
+T S T S T _
+S S T T S T
+S S _ S _ _
+T _ S T S S
+S S T T T S
+Player  2 rolls the dice : 
+2 1
+Player 2, gets a point
+S T T _ T S
+S S T S T _
+S S T T S T
+S S _ S _ _
+T _ S T S S
+S S T T T S
+Player  1 rolls the dice : 
+2 6
+S T T _ T S
+S S T S T T
+S S T T S T
+S S _ S _ _
+T _ S T S S
+S S T T T S
+Player  2 rolls the dice : 
+2 6
+Player 2, gets a point
+S T T _ T S
+S S T S T S
+S S T T S T
+S S _ S _ _
+T _ S T S S
+S S T T T S
+Winner : Player  2
