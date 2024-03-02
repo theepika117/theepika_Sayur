@@ -24,6 +24,6 @@ def findSimilarStrings (inputString1,inputString2) :                    #passing
 #main code 
 str1 = input("Enter string 1 : ")
 str2 = input("Enter string 2 : ")
-str1.lower()
+str1.lower()                                                            #to avoid case sensitive errors
 str2.lower()
 findSimilarStrings(str1,str2)
